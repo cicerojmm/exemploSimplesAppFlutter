@@ -1,4 +1,4 @@
-Exemplo Simples de App utilizando Flutter
+## Exemplo Simples de App utilizando Flutter
 
 Aplicativo para mostrar preço do Bitcoin em tempo real utilizando Flutter.
 
